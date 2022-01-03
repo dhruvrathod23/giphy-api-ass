@@ -1,3 +1,5 @@
+You can type in any text and get  a GIF image 
+
 #live demo
 https://giphy-ass.herokuapp.com/
 # Getting Started with Create React App
