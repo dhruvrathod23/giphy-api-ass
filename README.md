@@ -1,4 +1,4 @@
-You can type in any text and get  a GIF image 
+You can type in any text and get  a GIF image  example - hii,bie,food etc
 
 #live demo
 https://giphy-ass.herokuapp.com/
